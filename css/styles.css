@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  background-color: #d8e3e7;
+  margin: 0;
+}
+
+h1 {
+  font-size: 5.625em;
+  margin-top: 0;
+  font-family: 'Allura', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #d8e3e7;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  padding: 20px;
+  position: absolute;
+  right: 30%;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 35%;
+}
+
+.my-pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.guitar-pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.programming-pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
